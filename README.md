@@ -18,4 +18,5 @@
 
 5. 对于想要使用全部路径的个人，在所有的汉字被付款之前，暂时无法提供。如果有企业对此感兴趣，请直接联系。
 6. 路径能用来干什么？可以用来生成刀路如上图所示，也可以用来生成动画如下图所示。
+
    |![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/GIF/燕子翔.gif)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/weixin.png)|
