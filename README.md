@@ -12,11 +12,11 @@
    所以在这里展示一下目前的成果。如果有个人想要使用未提供的字的路径的话，按每个字10元收取费用。
    请使用支付宝付款，并备注想要使用的字。
 
-   |![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/891582546.jpg)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/1580970624.jpg)|
+   |![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/weixin.png)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/891582546.jpg)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/1580970624.jpg)|
 
    只要有一个人为某一个字付过款后，这个字的路径就会在这里上传好，之后其他人想要使用的话，可以直接取用。
 
 5. 对于想要使用全部路径的个人，在所有的汉字被付款之前，暂时无法提供。如果有企业对此感兴趣，请直接联系。
 6. 路径能用来干什么？可以用来生成刀路如上图所示，[也可以用来生成动画如下图所示](http://yanzixiang.github.io/animejs.html)。
 
-   |![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/GIF/燕子翔.gif)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/weixin.png)|
+   ![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/GIF/燕子翔.gif)
