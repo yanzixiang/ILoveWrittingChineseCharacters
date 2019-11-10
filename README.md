@@ -1,4 +1,4 @@
-# I Love Writting Chinese Characters
+﻿# I Love Writting Chinese Characters
 # 我爱写汉字
 
 ![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/GIF/%E6%88%91%E7%88%B1%E5%86%99%E6%B1%89%E5%AD%97%E5%8E%8B%E7%BC%A9.gif)
@@ -20,3 +20,4 @@
 6. 路径能用来干什么？可以用来生成刀路如上图所示，[也可以用来生成动画如下图所示](http://yanzixiang.github.io/animejs.html)。
 
    ![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/GIF/燕子翔.gif)
+   ![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/GIF/燕KUKA压缩.gif)
